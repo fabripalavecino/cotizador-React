@@ -1,7 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deployment en Netlify
-Too see the project: [link](https://angry-goldberg-6e382c.netlify.app/)
+Too see the project working: 
+#### Go to: [https://angry-goldberg-6e382c.netlify.app/](https://angry-goldberg-6e382c.netlify.app/)
+
+
 
 ## Available Scripts
 
